@@ -55,13 +55,14 @@ TrafficAdvisoryAgent/
 └── data/                      # Data storage
 ```
 
-Key Technologies
-Frontend: Streamlit with custom CSS styling
-Maps: Plotly scatter_mapbox with OpenStreetMap tiles
-Data Processing: Pandas, NumPy for optimized performance
-Deployment: Docker, IBM Cloud Code Engine ready
-Performance
-Load Time: 2-3 seconds
-Dataset: 128 optimized traffic records
-Map: 800px height, 20-waypoint routing
-Caching: Singleton pattern for performance optimization
+#Key Technologies
+- Frontend: Streamlit with custom CSS styling
+- Maps: Plotly scatter_mapbox with OpenStreetMap tiles
+- Data Processing: Pandas, NumPy for optimized performance
+- Deployment: Docker, IBM Cloud Code Engine ready
+
+#Performance
+- Load Time: 2-3 seconds
+- Dataset: 128 optimized traffic records
+- Map: 800px height, 20-waypoint routing
+- Caching: Singleton pattern for performance optimization
