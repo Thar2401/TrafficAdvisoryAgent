@@ -1,0 +1,49 @@
+# .dockerignore - Files to exclude from Docker build context
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Documentation (not needed in container)
+*.md
+docs/
+
+# Tests (not needed in production)
+tests/
+*.test.py
+
+# Backup files
+*.backup
+*.bak
+simple_traffic_app.py
+simple_traffic_app_backup.py
+
+# Logs
+*.log
+
+# IBM Cloud config (will be created separately)
+manifest.yml
+.bluemix/

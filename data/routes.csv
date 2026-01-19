@@ -1,0 +1,16 @@
+route_id,source_location,destination_location,distance_km,base_travel_time_min,route_description
+1,Downtown,Airport,25.5,45,Highway via Queens Expressway
+2,Downtown,Business District,3.2,15,Direct via Broadway
+3,Downtown,University,5.8,25,Via Central Park
+4,Airport,Business District,28.7,55,Via Brooklyn Bridge
+5,Airport,University,31.2,60,Via Manhattan Bridge
+6,Business District,University,8.5,30,Via Park Avenue
+7,Residential Area A,Shopping Mall,4.2,20,Local streets
+8,Residential Area A,Hospital,6.8,25,Via FDR Drive
+9,Shopping Mall,Stadium,12.3,35,Via Triborough Bridge
+10,Hospital,Beach,35.8,70,Via Belt Parkway
+11,Downtown,Residential Area A,4.5,18,Via 5th Avenue
+12,University,Stadium,15.2,40,Via Harlem River Drive
+13,Business District,Shopping Mall,6.7,22,Via Lexington Avenue
+14,Airport,Beach,18.9,45,Direct via Belt Parkway
+15,Stadium,Beach,25.4,50,Via Cross Bay Boulevard

@@ -1,0 +1,11 @@
+location,latitude,longitude,zone_id,traffic_density
+Downtown,40.7128,-74.0060,1,high
+Airport,40.6892,-73.8844,2,medium
+Business District,40.7589,-73.9851,3,high
+University,40.7282,-73.9942,4,low
+Residential Area A,40.7505,-73.9934,5,medium
+Residential Area B,40.7648,-73.9808,6,low
+Shopping Mall,40.7505,-73.9956,7,high
+Hospital,40.7831,-73.9712,8,medium
+Stadium,40.8176,-73.9782,9,high
+Beach,40.5897,-73.9497,10,low
