@@ -1,0 +1,55 @@
+timestamp,location,congestion_level,speed_kmh,travel_time_multiplier,weather_condition,day_of_week,hour_of_day,traffic_volume,incidents
+2024-01-19 07:00:00,Manhattan - Times Square,0.85,18.5,1.8,Clear,Friday,7,520,Heavy morning rush traffic
+2024-01-19 07:00:00,Manhattan - Wall Street,0.88,16.2,1.9,Clear,Friday,7,580,Financial district morning rush
+2024-01-19 07:00:00,Brooklyn - Downtown Brooklyn,0.72,22.1,1.5,Clear,Friday,7,420,Bridge traffic backup
+2024-01-19 07:00:00,Queens - Long Island City,0.65,25.8,1.3,Clear,Friday,7,380,Moderate congestion
+2024-01-19 07:00:00,Bronx - Yankee Stadium,0.58,28.5,1.2,Clear,Friday,7,320,Normal morning traffic
+2024-01-19 08:00:00,Manhattan - Times Square,0.92,15.2,2.1,Clear,Friday,8,650,Peak morning rush
+2024-01-19 08:00:00,Manhattan - Wall Street,0.89,16.8,1.9,Clear,Friday,8,620,Severe congestion
+2024-01-19 08:00:00,Brooklyn - Downtown Brooklyn,0.78,20.5,1.6,Clear,Friday,8,480,Brooklyn Bridge delays
+2024-01-19 08:00:00,Queens - Long Island City,0.70,24.2,1.4,Clear,Friday,8,420,LIE backup
+2024-01-19 08:00:00,Bronx - Yankee Stadium,0.62,27.1,1.3,Clear,Friday,8,350,Increasing volume
+2024-01-19 09:00:00,Manhattan - Times Square,0.75,21.5,1.5,Clear,Friday,9,480,Post-rush normalization
+2024-01-19 09:00:00,Manhattan - Wall Street,0.68,24.8,1.4,Clear,Friday,9,420,Moderate business traffic
+2024-01-19 09:00:00,Brooklyn - Downtown Brooklyn,0.58,28.2,1.2,Clear,Friday,9,350,Traffic clearing
+2024-01-19 09:00:00,Queens - Long Island City,0.52,32.1,1.1,Clear,Friday,9,300,Light traffic
+2024-01-19 09:00:00,Bronx - Yankee Stadium,0.45,35.8,1.0,Clear,Friday,9,280,Normal flow
+2024-01-19 12:00:00,Manhattan - Times Square,0.68,25.2,1.3,Clear,Friday,12,420,Lunch hour traffic
+2024-01-19 12:00:00,Manhattan - Wall Street,0.62,28.5,1.3,Clear,Friday,12,380,Midday business
+2024-01-19 12:00:00,Brooklyn - Downtown Brooklyn,0.48,35.1,1.1,Clear,Friday,12,280,Light midday
+2024-01-19 12:00:00,Queens - Long Island City,0.42,38.2,1.0,Clear,Friday,12,250,Good flow
+2024-01-19 12:00:00,Bronx - Yankee Stadium,0.38,42.5,0.9,Clear,Friday,12,220,Optimal conditions
+2024-01-19 17:00:00,Manhattan - Times Square,0.95,12.8,2.2,Clear,Friday,17,680,Evening rush peak
+2024-01-19 17:00:00,Manhattan - Wall Street,0.91,14.5,2.0,Clear,Friday,17,640,Financial district exodus
+2024-01-19 17:00:00,Brooklyn - Downtown Brooklyn,0.82,19.2,1.7,Clear,Friday,17,520,Bridge congestion
+2024-01-19 17:00:00,Queens - Long Island City,0.78,21.8,1.6,Clear,Friday,17,480,Tunnel backup
+2024-01-19 17:00:00,Bronx - Yankee Stadium,0.70,25.1,1.4,Clear,Friday,17,400,Heavy evening traffic
+2024-01-19 18:00:00,Manhattan - Times Square,0.88,16.8,1.9,Clear,Friday,18,620,Continued evening rush
+2024-01-19 18:00:00,Manhattan - Wall Street,0.82,19.5,1.7,Clear,Friday,18,580,Moderate improvement
+2024-01-19 18:00:00,Brooklyn - Downtown Brooklyn,0.75,22.8,1.5,Clear,Friday,18,460,Evening commute
+2024-01-19 18:00:00,Queens - Long Island City,0.68,26.5,1.4,Clear,Friday,18,420,Gradual clearing
+2024-01-19 18:00:00,Bronx - Yankee Stadium,0.62,28.2,1.3,Clear,Friday,18,360,Normalizing
+2024-01-19 20:00:00,Manhattan - Times Square,0.65,26.8,1.3,Clear,Friday,20,380,Evening entertainment
+2024-01-19 20:00:00,Manhattan - Wall Street,0.35,42.1,0.9,Clear,Friday,20,200,Quiet evening
+2024-01-19 20:00:00,Brooklyn - Downtown Brooklyn,0.42,36.5,1.0,Clear,Friday,20,240,Light evening
+2024-01-19 20:00:00,Queens - Long Island City,0.38,40.2,0.9,Clear,Friday,20,210,Good flow
+2024-01-19 20:00:00,Bronx - Yankee Stadium,0.32,45.8,0.8,Clear,Friday,20,180,Light traffic
+2024-01-19 23:00:00,Manhattan - Times Square,0.45,35.2,1.0,Clear,Friday,23,250,Late night moderate
+2024-01-19 23:00:00,Manhattan - Wall Street,0.18,48.5,0.7,Clear,Friday,23,120,Very light
+2024-01-19 23:00:00,Brooklyn - Downtown Brooklyn,0.25,44.8,0.8,Clear,Friday,23,150,Light night traffic
+2024-01-19 23:00:00,Queens - Long Island City,0.22,46.2,0.8,Clear,Friday,23,140,Minimal congestion
+2024-01-19 23:00:00,Bronx - Yankee Stadium,0.20,48.1,0.7,Clear,Friday,23,110,Free flow
+2024-01-18 07:00:00,Manhattan - Central Park,0.78,20.5,1.6,Partly Cloudy,Thursday,7,460,Morning joggers and commuters
+2024-01-18 08:00:00,Brooklyn - Williamsburg,0.82,18.8,1.7,Partly Cloudy,Thursday,8,520,Bridge congestion
+2024-01-18 09:00:00,Queens - Astoria,0.58,29.2,1.2,Partly Cloudy,Thursday,9,340,Post-rush normalization
+2024-01-18 12:00:00,Manhattan - Greenwich Village,0.55,30.8,1.2,Partly Cloudy,Thursday,12,320,Midday shopping traffic
+2024-01-18 17:00:00,Brooklyn - Park Slope,0.72,23.5,1.5,Partly Cloudy,Thursday,17,440,Residential evening rush
+2024-01-18 18:00:00,Queens - Flushing,0.68,25.8,1.4,Partly Cloudy,Thursday,18,400,Dinner rush
+2024-01-17 07:00:00,Bronx - Fordham,0.65,26.2,1.3,Light Rain,Wednesday,7,380,Weather impact on traffic
+2024-01-17 08:00:00,Manhattan - Upper East Side,0.85,17.5,1.8,Light Rain,Wednesday,8,550,Rain slowing traffic
+2024-01-17 17:00:00,Brooklyn - DUMBO,0.88,16.2,1.9,Light Rain,Wednesday,17,580,Wet conditions, slow speeds
+2024-01-16 12:00:00,Queens - Jamaica,0.48,34.5,1.1,Clear,Tuesday,12,280,Midday commercial area
+2024-01-16 20:00:00,Manhattan - Chinatown,0.62,27.8,1.3,Clear,Tuesday,20,360,Evening dining traffic
+2024-01-15 14:00:00,Brooklyn - Coney Island,0.38,40.8,0.9,Clear,Monday,14,220,Light afternoon beach area
+2024-01-15 16:00:00,Queens - Forest Hills,0.55,31.2,1.2,Clear,Monday,16,310,Residential pre-rush
+2024-01-14 10:00:00,Bronx - The Hub,0.52,32.8,1.1,Cloudy,Sunday,10,290,Weekend shopping traffic
