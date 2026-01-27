@@ -56,6 +56,8 @@ Core Technologies
 
 ## Project Structure  
 
+```bash
+
 TrafficAdvisoryAgent/
 ├── src/
 │   ├── perception_module.py
@@ -74,8 +76,8 @@ TrafficAdvisoryAgent/
 │   ├── validators.py
 │   └── data_generator.py
 ├── tests/
-└── data/ 
-
+└── data/
+```
 ---
 
 ## Quick Start
