@@ -54,30 +54,27 @@ Core Technologies
 - Streamlit  
 - Plotly  
 
-Project Structure  
+## Project Structure  
 
 TrafficAdvisoryAgent/
-src/
-perception_module.py  
-reasoning_module.py  
-decision_module.py  
-action_module.py  
-traffic_agent.py  
-streamlit_app.py  
-ui_components.py  
-
-models/
-traffic_predictor.py  
-route_optimizer.py  
-sustainability_calculator.py  
-
-utils/
-config.py  
-validators.py  
-data_generator.py  
-
-tests/  
-data/  
+├── src/
+│   ├── perception_module.py
+│   ├── reasoning_module.py
+│   ├── decision_module.py
+│   ├── action_module.py
+│   ├── traffic_agent.py
+│   ├── streamlit_app.py
+│   └── ui_components.py
+├── models/
+│   ├── traffic_predictor.py
+│   ├── route_optimizer.py
+│   └── sustainability_calculator.py
+├── utils/
+│   ├── config.py
+│   ├── validators.py
+│   └── data_generator.py
+├── tests/
+└── data/ 
 
 ---
 
